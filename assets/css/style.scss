@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// The wordmark (_includes/wordmark.html) stands in for the theme's plain-text title.
+header h1 {
+  display: none;
+}
+
+.wordmark {
+  display: inline-flex;
+  align-items: baseline;
+  margin-bottom: 1rem;
+  color: #16181d;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+}
+
+.wordmark:hover {
+  text-decoration: none;
+}
+
+// One capital tall in whatever font draws the text, standing on its baseline.
+.wordmark-glyph {
+  width: auto;
+  height: 0.71em;
+  margin-left: 0.09em;
+}

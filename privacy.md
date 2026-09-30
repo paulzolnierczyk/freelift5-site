@@ -3,6 +3,8 @@ title: FreeLift5 privacy policy
 permalink: /privacy/
 ---
 
+{% include wordmark.html %}
+
 # Privacy policy
 
 _Last updated: 30 September 2026_

@@ -3,6 +3,8 @@ title: FreeLift5
 permalink: /
 ---
 
+{% include wordmark.html %}
+
 # FreeLift5
 
 A barbell training log that does the arithmetic for you. Pick a program, enter the weights you

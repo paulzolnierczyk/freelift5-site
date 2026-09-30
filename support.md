@@ -3,6 +3,8 @@ title: FreeLift5 support
 permalink: /support/
 ---
 
+{% include wordmark.html %}
+
 # Support
 
 FreeLift5 is a barbell training log that plans each workout for you. It needs no account and
