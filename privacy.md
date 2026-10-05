@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy policy
 
-_Last updated: 30 September 2026_
+_Last updated: 5 October 2026_
 
 FreeLift5 is a barbell training log for iPhone and Android, made by Paul Zolnierczyk. This policy
 covers the app and this website.
@@ -53,8 +53,10 @@ The app is suitable for all ages and collects no data from anyone, children incl
 
 ## This website
 
-This site is hosted on GitHub Pages. GitHub may keep standard server logs, such as IP addresses,
-under [GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
+Settings → About in the app opens these pages in your phone's browser, which loads them; the app
+sends nothing with the link. This site is hosted on GitHub Pages. GitHub may keep standard server
+logs, such as IP addresses, under
+[GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 The site sets no cookies and runs no analytics of its own.
 
 ## Changes

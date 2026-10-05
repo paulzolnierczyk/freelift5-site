@@ -1,6 +1,7 @@
 # GitHub Pages settings for the public freelift5-site repository, which serves this folder
 # (index.md, _includes/wordmark.html, assets/css/style.scss) plus ../privacy-policy.md,
-# ../support.md and ../terms.md. No analytics, no cookies.
+# ../support.md and ../terms.md. No analytics, no cookies: never set the theme's
+# google_analytics key, which would turn analytics on and break the privacy policy.
 title: FreeLift5
 description: A barbell training log that plans every workout. No account; your data stays on your phone.
 theme: jekyll-theme-minimal
