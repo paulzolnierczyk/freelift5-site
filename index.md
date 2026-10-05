@@ -18,4 +18,4 @@ on each side of the bar, your warm-ups and your rest.
 
 Coming to the App Store; Google Play to follow.
 
-[Support](support/) · [Privacy policy](privacy/)
+[Support](support/) · [Privacy policy](privacy/) · [Terms of use](terms/)
