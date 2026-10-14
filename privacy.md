@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy policy
 
-_Last updated: 5 October 2026_
+_Last updated: 9 October 2026_
 
 FreeLift5 is a barbell training log for iPhone and Android, made by Paul Zolnierczyk. This policy
 covers the app and this website.
@@ -21,7 +21,8 @@ on your phone.
 ## What the app keeps, and where
 
 The app stores what you enter so it can plan your training: your program, the weights and sets
-you log, your bodyweight and notes if you add them, your equipment and your settings. All of it
+you log, your bodyweight and notes if you add them, how you felt going into a workout if you say,
+your equipment and your settings. All of it
 is kept in the app's own storage on your phone. The developer never receives any of it and has
 no way to see it.
 
