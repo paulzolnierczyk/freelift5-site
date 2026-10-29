@@ -7,7 +7,7 @@ permalink: /terms/
 
 # Terms of use
 
-_Last updated: 5 October 2026_
+_Last updated: 29 October 2026_
 
 FreeLift5 is a free barbell training log for iPhone and Android, made by Paul Zolnierczyk. These
 terms set out the basis on which it is offered. On iPhone, Apple's
@@ -34,6 +34,9 @@ Save a backup file from Settings → Backup to be sure of keeping it.
 FreeLift5 can import a CSV export from StrongLifts. StrongLifts is a trademark of its owner.
 FreeLift5 is not affiliated with or endorsed by StrongLifts. Only import files you exported
 yourself.
+
+Program names such as Starting Strength and 5/3/1 are trademarks of their owners, used only to
+name the programs. FreeLift5 is not affiliated with or endorsed by them.
 
 ## Your data
 
