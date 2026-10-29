@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy policy
 
-_Last updated: 9 October 2026_
+_Last updated: 29 October 2026_
 
 FreeLift5 is a barbell training log for iPhone and Android, made by Paul Zolnierczyk. This policy
 covers the app and this website.
@@ -50,7 +50,7 @@ delete.
 
 ## Children
 
-The app is suitable for all ages and collects no data from anyone, children included.
+The app is rated 9+ on the App Store and collects no data from anyone, children included.
 
 ## This website
 
